@@ -1,0 +1,892 @@
+Survived,Name,Age,SibSp,Parch,Fare
+FALSE,"Braund, Mr. Owen Harris",22,Text,0,7.25
+TRUE,"Cumings, Mrs. John Bradley (Florence Briggs Thayer)",38,Text,0,71.2833
+TRUE,"Heikkinen, Miss. Laina",26,Text,0,7.925
+TRUE,"Futrelle, Mrs. Jacques Heath (Lily May Peel)",35,Text,0,53.1
+FALSE,"Allen, Mr. William Henry",35,Text,0,8.05
+FALSE,"Moran, Mr. James",,Text,0,8.4583
+FALSE,"McCarthy, Mr. Timothy J",54,Text,0,51.8625
+FALSE,"Palsson, Master. Gosta Leonard",2,Text,1,21.075
+TRUE,"Johnson, Mrs. Oscar W (Elisabeth Vilhelmina Berg)",27,Text,2,11.1333
+TRUE,"Nasser, Mrs. Nicholas (Adele Achem)",14,Text,0,30.0708
+TRUE,"Sandstrom, Miss. Marguerite Rut",4,Text,1,16.7
+TRUE,"Bonnell, Miss. Elizabeth",58,Text,0,26.55
+FALSE,"Saundercock, Mr. William Henry",20,Text,0,8.05
+FALSE,"Andersson, Mr. Anders Johan",39,Text,5,31.275
+FALSE,"Vestrom, Miss. Hulda Amanda Adolfina",14,Text,0,7.8542
+TRUE,"Hewlett, Mrs. (Mary D Kingcome) ",55,Text,0,16
+FALSE,"Rice, Master. Eugene",2,Text,1,29.125
+TRUE,"Williams, Mr. Charles Eugene",,Text,0,13
+FALSE,"Vander Planke, Mrs. Julius (Emelia Maria Vandemoortele)",31,Text,0,18
+TRUE,"Masselmani, Mrs. Fatima",,Text,0,7.225
+FALSE,"Fynney, Mr. Joseph J",35,Text,0,26
+TRUE,"Beesley, Mr. Lawrence",34,Text,0,13
+TRUE,"McGowan, Miss. Anna ""Annie""",15,Text,0,8.0292
+TRUE,"Sloper, Mr. William Thompson",28,Text,0,35.5
+FALSE,"Palsson, Miss. Torborg Danira",8,Text,1,21.075
+TRUE,"Asplund, Mrs. Carl Oscar (Selma Augusta Emilia Johansson)",38,Text,5,31.3875
+FALSE,"Emir, Mr. Farred Chehab",,Text,0,7.225
+FALSE,"Fortune, Mr. Charles Alexander",19,Text,2,263
+TRUE,"O'Dwyer, Miss. Ellen ""Nellie""",,Text,0,7.8792
+FALSE,"Todoroff, Mr. Lalio",,Text,0,7.8958
+FALSE,"Uruchurtu, Don. Manuel E",40,Text,0,27.7208
+TRUE,"Spencer, Mrs. William Augustus (Marie Eugenie)",,Text,0,146.5208
+TRUE,"Glynn, Miss. Mary Agatha",,Text,0,7.75
+FALSE,"Wheadon, Mr. Edward H",66,Text,0,10.5
+FALSE,"Meyer, Mr. Edgar Joseph",28,Text,0,82.1708
+FALSE,"Holverson, Mr. Alexander Oskar",42,Text,0,52
+TRUE,"Mamee, Mr. Hanna",,Text,0,7.2292
+FALSE,"Cann, Mr. Ernest Charles",21,Text,0,8.05
+FALSE,"Vander Planke, Miss. Augusta Maria",18,Text,0,18
+TRUE,"Nicola-Yarred, Miss. Jamila",14,Text,0,11.2417
+FALSE,"Ahlin, Mrs. Johan (Johanna Persdotter Larsson)",40,Text,0,9.475
+FALSE,"Turpin, Mrs. William John Robert (Dorothy Ann Wonnacott)",27,Text,0,21
+FALSE,"Kraeff, Mr. Theodor",,Text,0,7.8958
+TRUE,"Laroche, Miss. Simonne Marie Anne Andree",3,Text,2,41.5792
+TRUE,"Devaney, Miss. Margaret Delia",19,Text,0,7.8792
+FALSE,"Rogers, Mr. William John",,Text,0,8.05
+FALSE,"Lennon, Mr. Denis",,Text,0,15.5
+TRUE,"O'Driscoll, Miss. Bridget",,Text,0,7.75
+FALSE,"Samaan, Mr. Youssef",,Text,0,21.6792
+FALSE,"Arnold-Franchi, Mrs. Josef (Josefine Franchi)",18,Text,0,17.8
+FALSE,"Panula, Master. Juha Niilo",7,Text,1,39.6875
+FALSE,"Nosworthy, Mr. Richard Cater",21,Text,0,7.8
+TRUE,"Harper, Mrs. Henry Sleeper (Myna Haxtun)",49,Text,0,76.7292
+TRUE,"Faunthorpe, Mrs. Lizzie (Elizabeth Anne Wilkinson)",29,Text,0,26
+FALSE,"Ostby, Mr. Engelhart Cornelius",65,Text,1,61.9792
+TRUE,"Woolner, Mr. Hugh",,Text,0,35.5
+TRUE,"Rugg, Miss. Emily",21,Text,0,10.5
+FALSE,"Novel, Mr. Mansouer",28.5,Text,0,7.2292
+TRUE,"West, Miss. Constance Mirium",5,Text,2,27.75
+FALSE,"Goodwin, Master. William Frederick",11,Text,2,46.9
+FALSE,"Sirayanian, Mr. Orsen",22,Text,0,7.2292
+TRUE,"Icard, Miss. Amelie",38,Text,0,80
+FALSE,"Harris, Mr. Henry Birkhardt",45,Text,0,83.475
+FALSE,"Skoog, Master. Harald",4,Text,2,27.9
+FALSE,"Stewart, Mr. Albert A",,Text,0,27.7208
+TRUE,"Moubarek, Master. Gerios",,Text,1,15.2458
+TRUE,"Nye, Mrs. (Elizabeth Ramell)",29,Text,0,10.5
+FALSE,"Crease, Mr. Ernest James",19,Text,0,8.1583
+TRUE,"Andersson, Miss. Erna Alexandra",17,Text,2,7.925
+FALSE,"Kink, Mr. Vincenz",26,Text,0,8.6625
+FALSE,"Jenkin, Mr. Stephen Curnow",32,Text,0,10.5
+FALSE,"Goodwin, Miss. Lillian Amy",16,Text,2,46.9
+FALSE,"Hood, Mr. Ambrose Jr",21,Text,0,73.5
+FALSE,"Chronopoulos, Mr. Apostolos",26,Text,0,14.4542
+TRUE,"Bing, Mr. Lee",32,Text,0,56.4958
+FALSE,"Moen, Mr. Sigurd Hansen",25,Text,0,7.65
+FALSE,"Staneff, Mr. Ivan",,Text,0,7.8958
+FALSE,"Moutal, Mr. Rahamin Haim",,Text,0,8.05
+TRUE,"Caldwell, Master. Alden Gates",0.83,Text,2,29
+TRUE,"Dowdell, Miss. Elizabeth",30,Text,0,12.475
+FALSE,"Waelens, Mr. Achille",22,Text,0,9
+TRUE,"Sheerlinck, Mr. Jan Baptist",29,Text,0,9.5
+TRUE,"McDermott, Miss. Brigdet Delia",,Text,0,7.7875
+FALSE,"Carrau, Mr. Francisco M",28,Text,0,47.1
+TRUE,"Ilett, Miss. Bertha",17,Text,0,10.5
+TRUE,"Backstrom, Mrs. Karl Alfred (Maria Mathilda Gustafsson)",33,Text,0,15.85
+FALSE,"Ford, Mr. William Neal",16,Text,3,34.375
+FALSE,"Slocovski, Mr. Selman Francis",,Text,0,8.05
+TRUE,"Fortune, Miss. Mabel Helen",23,Text,2,263
+FALSE,"Celotti, Mr. Francesco",24,Text,0,8.05
+FALSE,"Christmann, Mr. Emil",29,Text,0,8.05
+FALSE,"Andreasson, Mr. Paul Edvin",20,Text,0,7.8542
+FALSE,"Chaffee, Mr. Herbert Fuller",46,Text,0,61.175
+FALSE,"Dean, Mr. Bertram Frank",26,Text,2,20.575
+FALSE,"Coxon, Mr. Daniel",59,Text,0,7.25
+FALSE,"Shorney, Mr. Charles Joseph",,Text,0,8.05
+FALSE,"Goldschmidt, Mr. George B",71,Text,0,34.6542
+TRUE,"Greenfield, Mr. William Bertram",23,Text,1,63.3583
+TRUE,"Doling, Mrs. John T (Ada Julia Bone)",34,Text,1,23
+FALSE,"Kantor, Mr. Sinai",34,Text,0,26
+FALSE,"Petranec, Miss. Matilda",28,Text,0,7.8958
+FALSE,"Petroff, Mr. Pastcho (""Pentcho"")",,Text,0,7.8958
+FALSE,"White, Mr. Richard Frasar",21,Text,1,77.2875
+FALSE,"Johansson, Mr. Gustaf Joel",33,Text,0,8.6542
+FALSE,"Gustafsson, Mr. Anders Vilhelm",37,Text,0,7.925
+FALSE,"Mionoff, Mr. Stoytcho",28,Text,0,7.8958
+TRUE,"Salkjelsvik, Miss. Anna Kristine",21,Text,0,7.65
+TRUE,"Moss, Mr. Albert Johan",,Text,0,7.775
+FALSE,"Rekic, Mr. Tido",38,Text,0,7.8958
+TRUE,"Moran, Miss. Bertha",,Text,0,24.15
+FALSE,"Porter, Mr. Walter Chamberlain",47,Text,0,52
+FALSE,"Zabour, Miss. Hileni",14.5,Text,0,14.4542
+FALSE,"Barton, Mr. David John",22,Text,0,8.05
+FALSE,"Jussila, Miss. Katriina",20,Text,0,9.825
+FALSE,"Attalah, Miss. Malake",17,Text,0,14.4583
+FALSE,"Pekoniemi, Mr. Edvard",21,Text,0,7.925
+FALSE,"Connors, Mr. Patrick",70.5,Text,0,7.75
+FALSE,"Turpin, Mr. William John Robert",29,Text,0,21
+FALSE,"Baxter, Mr. Quigg Edmond",24,Text,1,247.5208
+FALSE,"Andersson, Miss. Ellis Anna Maria",2,Text,2,31.275
+FALSE,"Hickman, Mr. Stanley George",21,Text,0,73.5
+FALSE,"Moore, Mr. Leonard Charles",,Text,0,8.05
+FALSE,"Nasser, Mr. Nicholas",32.5,Text,0,30.0708
+TRUE,"Webber, Miss. Susan",32.5,Text,0,13
+FALSE,"White, Mr. Percival Wayland",54,Text,1,77.2875
+TRUE,"Nicola-Yarred, Master. Elias",12,Text,0,11.2417
+FALSE,"McMahon, Mr. Martin",,Text,0,7.75
+TRUE,"Madsen, Mr. Fridtjof Arne",24,Text,0,7.1417
+TRUE,"Peter, Miss. Anna",,Text,1,22.3583
+FALSE,"Ekstrom, Mr. Johan",45,Text,0,6.975
+FALSE,"Drazenoic, Mr. Jozef",33,Text,0,7.8958
+FALSE,"Coelho, Mr. Domingos Fernandeo",20,Text,0,7.05
+FALSE,"Robins, Mrs. Alexander A (Grace Charity Laury)",47,Text,0,14.5
+TRUE,"Weisz, Mrs. Leopold (Mathilde Francoise Pede)",29,Text,0,26
+FALSE,"Sobey, Mr. Samuel James Hayden",25,Text,0,13
+FALSE,"Richard, Mr. Emile",23,Text,0,15.0458
+TRUE,"Newsom, Miss. Helen Monypeny",19,Text,2,26.2833
+FALSE,"Futrelle, Mr. Jacques Heath",37,Text,0,53.1
+FALSE,"Osen, Mr. Olaf Elon",16,Text,0,9.2167
+FALSE,"Giglio, Mr. Victor",24,Text,0,79.2
+FALSE,"Boulos, Mrs. Joseph (Sultana)",,Text,2,15.2458
+TRUE,"Nysten, Miss. Anna Sofia",22,Text,0,7.75
+TRUE,"Hakkarainen, Mrs. Pekka Pietari (Elin Matilda Dolck)",24,Text,0,15.85
+FALSE,"Burke, Mr. Jeremiah",19,Text,0,6.75
+FALSE,"Andrew, Mr. Edgardo Samuel",18,Text,0,11.5
+FALSE,"Nicholls, Mr. Joseph Charles",19,Text,1,36.75
+TRUE,"Andersson, Mr. August Edvard (""Wennerstrom"")",27,Text,0,7.7958
+FALSE,"Ford, Miss. Robina Maggie ""Ruby""",9,Text,2,34.375
+FALSE,"Navratil, Mr. Michel (""Louis M Hoffman"")",36.5,Text,2,26
+FALSE,"Byles, Rev. Thomas Roussel Davids",42,Text,0,13
+FALSE,"Bateman, Rev. Robert James",51,Text,0,12.525
+TRUE,"Pears, Mrs. Thomas (Edith Wearne)",22,Text,0,66.6
+FALSE,"Meo, Mr. Alfonzo",55.5,Text,0,8.05
+FALSE,"van Billiard, Mr. Austin Blyler",40.5,Text,2,14.5
+FALSE,"Olsen, Mr. Ole Martin",,Text,0,7.3125
+FALSE,"Williams, Mr. Charles Duane",51,Text,1,61.3792
+TRUE,"Gilnagh, Miss. Katherine ""Katie""",16,Text,0,7.7333
+FALSE,"Corn, Mr. Harry",30,Text,0,8.05
+FALSE,"Smiljanic, Mr. Mile",,Text,0,8.6625
+FALSE,"Sage, Master. Thomas Henry",,Text,2,69.55
+FALSE,"Cribb, Mr. John Hatfield",44,Text,1,16.1
+TRUE,"Watt, Mrs. James (Elizabeth ""Bessie"" Inglis Milne)",40,Text,0,15.75
+FALSE,"Bengtsson, Mr. John Viktor",26,Text,0,7.775
+FALSE,"Calic, Mr. Jovo",17,Text,0,8.6625
+FALSE,"Panula, Master. Eino Viljami",1,Text,1,39.6875
+TRUE,"Goldsmith, Master. Frank John William ""Frankie""",9,Text,2,20.525
+TRUE,"Chibnall, Mrs. (Edith Martha Bowerman)",,Text,1,55
+FALSE,"Skoog, Mrs. William (Anna Bernhardina Karlsson)",45,Text,4,27.9
+FALSE,"Baumann, Mr. John D",,Text,0,25.925
+FALSE,"Ling, Mr. Lee",28,Text,0,56.4958
+FALSE,"Van der hoef, Mr. Wyckoff",61,Text,0,33.5
+FALSE,"Rice, Master. Arthur",4,Text,1,29.125
+TRUE,"Johnson, Miss. Eleanor Ileen",1,Text,1,11.1333
+FALSE,"Sivola, Mr. Antti Wilhelm",21,Text,0,7.925
+FALSE,"Smith, Mr. James Clinch",56,Text,0,30.6958
+FALSE,"Klasen, Mr. Klas Albin",18,Text,1,7.8542
+FALSE,"Lefebre, Master. Henry Forbes",,Text,1,25.4667
+FALSE,"Isham, Miss. Ann Elizabeth",50,Text,0,28.7125
+FALSE,"Hale, Mr. Reginald",30,Text,0,13
+FALSE,"Leonard, Mr. Lionel",36,Text,0,0
+FALSE,"Sage, Miss. Constance Gladys",,Text,2,69.55
+FALSE,"Pernot, Mr. Rene",,Text,0,15.05
+FALSE,"Asplund, Master. Clarence Gustaf Hugo",9,Text,2,31.3875
+TRUE,"Becker, Master. Richard F",1,Text,1,39
+TRUE,"Kink-Heilmann, Miss. Luise Gretchen",4,Text,2,22.025
+FALSE,"Rood, Mr. Hugh Roscoe",,Text,0,50
+TRUE,"O'Brien, Mrs. Thomas (Johanna ""Hannah"" Godfrey)",,Text,0,15.5
+TRUE,"Romaine, Mr. Charles Hallace (""Mr C Rolmane"")",45,Text,0,26.55
+FALSE,"Bourke, Mr. John",40,Text,1,15.5
+FALSE,"Turcin, Mr. Stjepan",36,Text,0,7.8958
+TRUE,"Pinsky, Mrs. (Rosa)",32,Text,0,13
+FALSE,"Carbines, Mr. William",19,Text,0,13
+TRUE,"Andersen-Jensen, Miss. Carla Christine Nielsine",19,Text,0,7.8542
+TRUE,"Navratil, Master. Michel M",3,Text,1,26
+TRUE,"Brown, Mrs. James Joseph (Margaret Tobin)",44,Text,0,27.7208
+TRUE,"Lurette, Miss. Elise",58,Text,0,146.5208
+FALSE,"Mernagh, Mr. Robert",,Text,0,7.75
+FALSE,"Olsen, Mr. Karl Siegwart Andreas",42,Text,1,8.4042
+TRUE,"Madigan, Miss. Margaret ""Maggie""",,Text,0,7.75
+FALSE,"Yrois, Miss. Henriette (""Mrs Harbeck"")",24,Text,0,13
+FALSE,"Vande Walle, Mr. Nestor Cyriel",28,Text,0,9.5
+FALSE,"Sage, Mr. Frederick",,Text,2,69.55
+FALSE,"Johanson, Mr. Jakob Alfred",34,Text,0,6.4958
+FALSE,"Youseff, Mr. Gerious",45.5,Text,0,7.225
+TRUE,"Cohen, Mr. Gurshon ""Gus""",18,Text,0,8.05
+FALSE,"Strom, Miss. Telma Matilda",2,Text,1,10.4625
+FALSE,"Backstrom, Mr. Karl Alfred",32,Text,0,15.85
+TRUE,"Albimona, Mr. Nassef Cassem",26,Text,0,18.7875
+TRUE,"Carr, Miss. Helen ""Ellen""",16,Text,0,7.75
+TRUE,"Blank, Mr. Henry",40,Text,0,31
+FALSE,"Ali, Mr. Ahmed",24,Text,0,7.05
+TRUE,"Cameron, Miss. Clear Annie",35,Text,0,21
+FALSE,"Perkin, Mr. John Henry",22,Text,0,7.25
+FALSE,"Givard, Mr. Hans Kristensen",30,Text,0,13
+FALSE,"Kiernan, Mr. Philip",,Text,0,7.75
+TRUE,"Newell, Miss. Madeleine",31,Text,0,113.275
+TRUE,"Honkanen, Miss. Eliina",27,Text,0,7.925
+FALSE,"Jacobsohn, Mr. Sidney Samuel",42,Text,0,27
+TRUE,"Bazzani, Miss. Albina",32,Text,0,76.2917
+FALSE,"Harris, Mr. Walter",30,Text,0,10.5
+TRUE,"Sunderland, Mr. Victor Francis",16,Text,0,8.05
+FALSE,"Bracken, Mr. James H",27,Text,0,13
+FALSE,"Green, Mr. George Henry",51,Text,0,8.05
+FALSE,"Nenkoff, Mr. Christo",,Text,0,7.8958
+TRUE,"Hoyt, Mr. Frederick Maxfield",38,Text,0,90
+FALSE,"Berglund, Mr. Karl Ivar Sven",22,Text,0,9.35
+TRUE,"Mellors, Mr. William John",19,Text,0,10.5
+FALSE,"Lovell, Mr. John Hall (""Henry"")",20.5,Text,0,7.25
+FALSE,"Fahlstrom, Mr. Arne Jonas",18,Text,0,13
+FALSE,"Lefebre, Miss. Mathilde",,Text,1,25.4667
+TRUE,"Harris, Mrs. Henry Birkhardt (Irene Wallach)",35,Text,0,83.475
+FALSE,"Larsson, Mr. Bengt Edvin",29,Text,0,7.775
+FALSE,"Sjostedt, Mr. Ernst Adolf",59,Text,0,13.5
+TRUE,"Asplund, Miss. Lillian Gertrud",5,Text,2,31.3875
+FALSE,"Leyson, Mr. Robert William Norman",24,Text,0,10.5
+FALSE,"Harknett, Miss. Alice Phoebe",,Text,0,7.55
+FALSE,"Hold, Mr. Stephen",44,Text,0,26
+TRUE,"Collyer, Miss. Marjorie ""Lottie""",8,Text,2,26.25
+FALSE,"Pengelly, Mr. Frederick William",19,Text,0,10.5
+FALSE,"Hunt, Mr. George Henry",33,Text,0,12.275
+FALSE,"Zabour, Miss. Thamine",,Text,0,14.4542
+TRUE,"Murphy, Miss. Katherine ""Kate""",,Text,0,15.5
+FALSE,"Coleridge, Mr. Reginald Charles",29,Text,0,10.5
+FALSE,"Maenpaa, Mr. Matti Alexanteri",22,Text,0,7.125
+FALSE,"Attalah, Mr. Sleiman",30,Text,0,7.225
+FALSE,"Minahan, Dr. William Edward",44,Text,0,90
+FALSE,"Lindahl, Miss. Agda Thorilda Viktoria",25,Text,0,7.775
+TRUE,"Hamalainen, Mrs. William (Anna)",24,Text,2,14.5
+TRUE,"Beckwith, Mr. Richard Leonard",37,Text,1,52.5542
+FALSE,"Carter, Rev. Ernest Courtenay",54,Text,0,26
+FALSE,"Reed, Mr. James George",,Text,0,7.25
+FALSE,"Strom, Mrs. Wilhelm (Elna Matilda Persson)",29,Text,1,10.4625
+FALSE,"Stead, Mr. William Thomas",62,Text,0,26.55
+FALSE,"Lobb, Mr. William Arthur",30,Text,0,16.1
+FALSE,"Rosblom, Mrs. Viktor (Helena Wilhelmina)",41,Text,2,20.2125
+TRUE,"Touma, Mrs. Darwis (Hanne Youssef Razi)",29,Text,2,15.2458
+TRUE,"Thorne, Mrs. Gertrude Maybelle",,Text,0,79.2
+TRUE,"Cherry, Miss. Gladys",30,Text,0,86.5
+TRUE,"Ward, Miss. Anna",35,Text,0,512.3292
+TRUE,"Parrish, Mrs. (Lutie Davis)",50,Text,1,26
+FALSE,"Smith, Mr. Thomas",,Text,0,7.75
+TRUE,"Asplund, Master. Edvin Rojj Felix",3,Text,2,31.3875
+FALSE,"Taussig, Mr. Emil",52,Text,1,79.65
+FALSE,"Harrison, Mr. William",40,Text,0,0
+FALSE,"Henry, Miss. Delia",,Text,0,7.75
+FALSE,"Reeves, Mr. David",36,Text,0,10.5
+FALSE,"Panula, Mr. Ernesti Arvid",16,Text,1,39.6875
+TRUE,"Persson, Mr. Ernst Ulrik",25,Text,0,7.775
+TRUE,"Graham, Mrs. William Thompson (Edith Junkins)",58,Text,1,153.4625
+TRUE,"Bissette, Miss. Amelia",35,Text,0,135.6333
+FALSE,"Cairns, Mr. Alexander",,Text,0,31
+TRUE,"Tornquist, Mr. William Henry",25,Text,0,0
+TRUE,"Mellinger, Mrs. (Elizabeth Anne Maidment)",41,Text,1,19.5
+FALSE,"Natsch, Mr. Charles H",37,Text,1,29.7
+TRUE,"Healy, Miss. Hanora ""Nora""",,Text,0,7.75
+TRUE,"Andrews, Miss. Kornelia Theodosia",63,Text,0,77.9583
+FALSE,"Lindblom, Miss. Augusta Charlotta",45,Text,0,7.75
+FALSE,"Parkes, Mr. Francis ""Frank""",,Text,0,0
+FALSE,"Rice, Master. Eric",7,Text,1,29.125
+TRUE,"Abbott, Mrs. Stanton (Rosa Hunt)",35,Text,1,20.25
+FALSE,"Duane, Mr. Frank",65,Text,0,7.75
+FALSE,"Olsson, Mr. Nils Johan Goransson",28,Text,0,7.8542
+FALSE,"de Pelsmaeker, Mr. Alfons",16,Text,0,9.5
+TRUE,"Dorking, Mr. Edward Arthur",19,Text,0,8.05
+FALSE,"Smith, Mr. Richard William",,Text,0,26
+FALSE,"Stankovic, Mr. Ivan",33,Text,0,8.6625
+TRUE,"de Mulder, Mr. Theodore",30,Text,0,9.5
+FALSE,"Naidenoff, Mr. Penko",22,Text,0,7.8958
+TRUE,"Hosono, Mr. Masabumi",42,Text,0,13
+TRUE,"Connolly, Miss. Kate",22,Text,0,7.75
+TRUE,"Barber, Miss. Ellen ""Nellie""",26,Text,0,78.85
+TRUE,"Bishop, Mrs. Dickinson H (Helen Walton)",19,Text,0,91.0792
+FALSE,"Levy, Mr. Rene Jacques",36,Text,0,12.875
+FALSE,"Haas, Miss. Aloisia",24,Text,0,8.85
+FALSE,"Mineff, Mr. Ivan",24,Text,0,7.8958
+FALSE,"Lewy, Mr. Ervin G",,Text,0,27.7208
+FALSE,"Hanna, Mr. Mansour",23.5,Text,0,7.2292
+FALSE,"Allison, Miss. Helen Loraine",2,Text,2,151.55
+TRUE,"Saalfeld, Mr. Adolphe",,Text,0,30.5
+TRUE,"Baxter, Mrs. James (Helene DeLaudeniere Chaput)",50,Text,1,247.5208
+TRUE,"Kelly, Miss. Anna Katherine ""Annie Kate""",,Text,0,7.75
+TRUE,"McCoy, Mr. Bernard",,Text,0,23.25
+FALSE,"Johnson, Mr. William Cahoone Jr",19,Text,0,0
+TRUE,"Keane, Miss. Nora A",,Text,0,12.35
+FALSE,"Williams, Mr. Howard Hugh ""Harry""",,Text,0,8.05
+TRUE,"Allison, Master. Hudson Trevor",0.92,Text,2,151.55
+TRUE,"Fleming, Miss. Margaret",,Text,0,110.8833
+TRUE,"Penasco y Castellana, Mrs. Victor de Satode (Maria Josefa Perez de Soto y Vallejo)",17,Text,0,108.9
+FALSE,"Abelson, Mr. Samuel",30,Text,0,24
+TRUE,"Francatelli, Miss. Laura Mabel",30,Text,0,56.9292
+TRUE,"Hays, Miss. Margaret Bechstein",24,Text,0,83.1583
+TRUE,"Ryerson, Miss. Emily Borie",18,Text,2,262.375
+FALSE,"Lahtinen, Mrs. William (Anna Sylfven)",26,Text,1,26
+FALSE,"Hendekovic, Mr. Ignjac",28,Text,0,7.8958
+FALSE,"Hart, Mr. Benjamin",43,Text,1,26.25
+TRUE,"Nilsson, Miss. Helmina Josefina",26,Text,0,7.8542
+TRUE,"Kantor, Mrs. Sinai (Miriam Sternin)",24,Text,0,26
+FALSE,"Moraweck, Dr. Ernest",54,Text,0,14
+TRUE,"Wick, Miss. Mary Natalie",31,Text,2,164.8667
+TRUE,"Spedden, Mrs. Frederic Oakley (Margaretta Corning Stone)",40,Text,1,134.5
+FALSE,"Dennis, Mr. Samuel",22,Text,0,7.25
+FALSE,"Danoff, Mr. Yoto",27,Text,0,7.8958
+TRUE,"Slayter, Miss. Hilda Mary",30,Text,0,12.35
+TRUE,"Caldwell, Mrs. Albert Francis (Sylvia Mae Harbaugh)",22,Text,1,29
+FALSE,"Sage, Mr. George John Jr",,Text,2,69.55
+TRUE,"Young, Miss. Marie Grice",36,Text,0,135.6333
+FALSE,"Nysveen, Mr. Johan Hansen",61,Text,0,6.2375
+TRUE,"Ball, Mrs. (Ada E Hall)",36,Text,0,13
+TRUE,"Goldsmith, Mrs. Frank John (Emily Alice Brown)",31,Text,1,20.525
+TRUE,"Hippach, Miss. Jean Gertrude",16,Text,1,57.9792
+TRUE,"McCoy, Miss. Agnes",,Text,0,23.25
+FALSE,"Partner, Mr. Austen",45.5,Text,0,28.5
+FALSE,"Graham, Mr. George Edward",38,Text,1,153.4625
+FALSE,"Vander Planke, Mr. Leo Edmondus",16,Text,0,18
+TRUE,"Frauenthal, Mrs. Henry William (Clara Heinsheimer)",,Text,0,133.65
+FALSE,"Denkoff, Mr. Mitto",,Text,0,7.8958
+FALSE,"Pears, Mr. Thomas Clinton",29,Text,0,66.6
+TRUE,"Burns, Miss. Elizabeth Margaret",41,Text,0,134.5
+TRUE,"Dahl, Mr. Karl Edwart",45,Text,0,8.05
+FALSE,"Blackwell, Mr. Stephen Weart",45,Text,0,35.5
+TRUE,"Navratil, Master. Edmond Roger",2,Text,1,26
+TRUE,"Fortune, Miss. Alice Elizabeth",24,Text,2,263
+FALSE,"Collander, Mr. Erik Gustaf",28,Text,0,13
+FALSE,"Sedgwick, Mr. Charles Frederick Waddington",25,Text,0,13
+FALSE,"Fox, Mr. Stanley Hubert",36,Text,0,13
+TRUE,"Brown, Miss. Amelia ""Mildred""",24,Text,0,13
+TRUE,"Smith, Miss. Marion Elsie",40,Text,0,13
+TRUE,"Davison, Mrs. Thomas Henry (Mary E Finck)",,Text,0,16.1
+TRUE,"Coutts, Master. William Loch ""William""",3,Text,1,15.9
+FALSE,"Dimic, Mr. Jovan",42,Text,0,8.6625
+FALSE,"Odahl, Mr. Nils Martin",23,Text,0,9.225
+FALSE,"Williams-Lambert, Mr. Fletcher Fellows",,Text,0,35
+FALSE,"Elias, Mr. Tannous",15,Text,1,7.2292
+FALSE,"Arnold-Franchi, Mr. Josef",25,Text,0,17.8
+FALSE,"Yousif, Mr. Wazli",,Text,0,7.225
+FALSE,"Vanden Steen, Mr. Leo Peter",28,Text,0,9.5
+TRUE,"Bowerman, Miss. Elsie Edith",22,Text,1,55
+FALSE,"Funk, Miss. Annie Clemmer",38,Text,0,13
+TRUE,"McGovern, Miss. Mary",,Text,0,7.8792
+TRUE,"Mockler, Miss. Helen Mary ""Ellie""",,Text,0,7.8792
+FALSE,"Skoog, Mr. Wilhelm",40,Text,4,27.9
+FALSE,"del Carlo, Mr. Sebastiano",29,Text,0,27.7208
+FALSE,"Barbara, Mrs. (Catherine David)",45,Text,1,14.4542
+FALSE,"Asim, Mr. Adola",35,Text,0,7.05
+FALSE,"O'Brien, Mr. Thomas",,Text,0,15.5
+FALSE,"Adahl, Mr. Mauritz Nils Martin",30,Text,0,7.25
+TRUE,"Warren, Mrs. Frank Manley (Anna Sophia Atkinson)",60,Text,0,75.25
+TRUE,"Moussa, Mrs. (Mantoura Boulos)",,Text,0,7.2292
+TRUE,"Jermyn, Miss. Annie",,Text,0,7.75
+TRUE,"Aubart, Mme. Leontine Pauline",24,Text,0,69.3
+TRUE,"Harder, Mr. George Achilles",25,Text,0,55.4417
+FALSE,"Wiklund, Mr. Jakob Alfred",18,Text,0,6.4958
+FALSE,"Beavan, Mr. William Thomas",19,Text,0,8.05
+FALSE,"Ringhini, Mr. Sante",22,Text,0,135.6333
+FALSE,"Palsson, Miss. Stina Viola",3,Text,1,21.075
+TRUE,"Meyer, Mrs. Edgar Joseph (Leila Saks)",,Text,0,82.1708
+TRUE,"Landergren, Miss. Aurora Adelia",22,Text,0,7.25
+FALSE,"Widener, Mr. Harry Elkins",27,Text,2,211.5
+FALSE,"Betros, Mr. Tannous",20,Text,0,4.0125
+FALSE,"Gustafsson, Mr. Karl Gideon",19,Text,0,7.775
+TRUE,"Bidois, Miss. Rosalie",42,Text,0,227.525
+TRUE,"Nakid, Miss. Maria (""Mary"")",1,Text,2,15.7417
+FALSE,"Tikkanen, Mr. Juho",32,Text,0,7.925
+TRUE,"Holverson, Mrs. Alexander Oskar (Mary Aline Towner)",35,Text,0,52
+FALSE,"Plotcharsky, Mr. Vasil",,Text,0,7.8958
+FALSE,"Davies, Mr. Charles Henry",18,Text,0,73.5
+FALSE,"Goodwin, Master. Sidney Leonard",1,Text,2,46.9
+TRUE,"Buss, Miss. Kate",36,Text,0,13
+FALSE,"Sadlier, Mr. Matthew",,Text,0,7.7292
+TRUE,"Lehmann, Miss. Bertha",17,Text,0,12
+TRUE,"Carter, Mr. William Ernest",36,Text,2,120
+TRUE,"Jansson, Mr. Carl Olof",21,Text,0,7.7958
+FALSE,"Gustafsson, Mr. Johan Birger",28,Text,0,7.925
+TRUE,"Newell, Miss. Marjorie",23,Text,0,113.275
+TRUE,"Sandstrom, Mrs. Hjalmar (Agnes Charlotta Bengtsson)",24,Text,2,16.7
+FALSE,"Johansson, Mr. Erik",22,Text,0,7.7958
+FALSE,"Olsson, Miss. Elina",31,Text,0,7.8542
+FALSE,"McKane, Mr. Peter David",46,Text,0,26
+FALSE,"Pain, Dr. Alfred",23,Text,0,10.5
+TRUE,"Trout, Mrs. William H (Jessie L)",28,Text,0,12.65
+TRUE,"Niskanen, Mr. Juha",39,Text,0,7.925
+FALSE,"Adams, Mr. John",26,Text,0,8.05
+FALSE,"Jussila, Miss. Mari Aina",21,Text,0,9.825
+FALSE,"Hakkarainen, Mr. Pekka Pietari",28,Text,0,15.85
+FALSE,"Oreskovic, Miss. Marija",20,Text,0,8.6625
+FALSE,"Gale, Mr. Shadrach",34,Text,0,21
+FALSE,"Widegren, Mr. Carl/Charles Peter",51,Text,0,7.75
+TRUE,"Richards, Master. William Rowe",3,Text,1,18.75
+FALSE,"Birkeland, Mr. Hans Martin Monsen",21,Text,0,7.775
+FALSE,"Lefebre, Miss. Ida",,Text,1,25.4667
+FALSE,"Sdycoff, Mr. Todor",,Text,0,7.8958
+FALSE,"Hart, Mr. Henry",,Text,0,6.8583
+TRUE,"Minahan, Miss. Daisy E",33,Text,0,90
+FALSE,"Cunningham, Mr. Alfred Fleming",,Text,0,0
+TRUE,"Sundman, Mr. Johan Julian",44,Text,0,7.925
+FALSE,"Meek, Mrs. Thomas (Annie Louise Rowley)",,Text,0,8.05
+TRUE,"Drew, Mrs. James Vivian (Lulu Thorne Christian)",34,Text,1,32.5
+TRUE,"Silven, Miss. Lyyli Karoliina",18,Text,2,13
+FALSE,"Matthews, Mr. William John",30,Text,0,13
+FALSE,"Van Impe, Miss. Catharina",10,Text,2,24.15
+FALSE,"Gheorgheff, Mr. Stanio",,Text,0,7.8958
+FALSE,"Charters, Mr. David",21,Text,0,7.7333
+FALSE,"Zimmerman, Mr. Leo",29,Text,0,7.875
+FALSE,"Danbom, Mrs. Ernst Gilbert (Anna Sigrid Maria Brogren)",28,Text,1,14.4
+FALSE,"Rosblom, Mr. Viktor Richard",18,Text,1,20.2125
+FALSE,"Wiseman, Mr. Phillippe",,Text,0,7.25
+TRUE,"Clarke, Mrs. Charles V (Ada Maria Winfield)",28,Text,0,26
+TRUE,"Phillips, Miss. Kate Florence (""Mrs Kate Louise Phillips Marshall"")",19,Text,0,26
+FALSE,"Flynn, Mr. James",,Text,0,7.75
+TRUE,"Pickard, Mr. Berk (Berk Trembisky)",32,Text,0,8.05
+TRUE,"Bjornstrom-Steffansson, Mr. Mauritz Hakan",28,Text,0,26.55
+TRUE,"Thorneycroft, Mrs. Percival (Florence Kate White)",,Text,0,16.1
+TRUE,"Louch, Mrs. Charles Alexander (Alice Adelaide Slow)",42,Text,0,26
+FALSE,"Kallio, Mr. Nikolai Erland",17,Text,0,7.125
+FALSE,"Silvey, Mr. William Baird",50,Text,0,55.9
+TRUE,"Carter, Miss. Lucile Polk",14,Text,2,120
+FALSE,"Ford, Miss. Doolina Margaret ""Daisy""",21,Text,2,34.375
+TRUE,"Richards, Mrs. Sidney (Emily Hocking)",24,Text,3,18.75
+FALSE,"Fortune, Mr. Mark",64,Text,4,263
+FALSE,"Kvillner, Mr. Johan Henrik Johannesson",31,Text,0,10.5
+TRUE,"Hart, Mrs. Benjamin (Esther Ada Bloomfield)",45,Text,1,26.25
+FALSE,"Hampe, Mr. Leon",20,Text,0,9.5
+FALSE,"Petterson, Mr. Johan Emil",25,Text,0,7.775
+TRUE,"Reynaldo, Ms. Encarnacion",28,Text,0,13
+TRUE,"Johannesen-Bratthammer, Mr. Bernt",,Text,0,8.1125
+TRUE,"Dodge, Master. Washington",4,Text,2,81.8583
+TRUE,"Mellinger, Miss. Madeleine Violet",13,Text,1,19.5
+TRUE,"Seward, Mr. Frederic Kimber",34,Text,0,26.55
+TRUE,"Baclini, Miss. Marie Catherine",5,Text,1,19.2583
+TRUE,"Peuchen, Major. Arthur Godfrey",52,Text,0,30.5
+FALSE,"West, Mr. Edwy Arthur",36,Text,2,27.75
+FALSE,"Hagland, Mr. Ingvald Olai Olsen",,Text,0,19.9667
+FALSE,"Foreman, Mr. Benjamin Laventall",30,Text,0,27.75
+TRUE,"Goldenberg, Mr. Samuel L",49,Text,0,89.1042
+FALSE,"Peduzzi, Mr. Joseph",,Text,0,8.05
+TRUE,"Jalsevac, Mr. Ivan",29,Text,0,7.8958
+FALSE,"Millet, Mr. Francis Davis",65,Text,0,26.55
+TRUE,"Kenyon, Mrs. Frederick R (Marion)",,Text,0,51.8625
+TRUE,"Toomey, Miss. Ellen",50,Text,0,10.5
+FALSE,"O'Connor, Mr. Maurice",,Text,0,7.75
+TRUE,"Anderson, Mr. Harry",48,Text,0,26.55
+FALSE,"Morley, Mr. William",34,Text,0,8.05
+FALSE,"Gee, Mr. Arthur H",47,Text,0,38.5
+FALSE,"Milling, Mr. Jacob Christian",48,Text,0,13
+FALSE,"Maisner, Mr. Simon",,Text,0,8.05
+FALSE,"Goncalves, Mr. Manuel Estanslas",38,Text,0,7.05
+FALSE,"Campbell, Mr. William",,Text,0,0
+FALSE,"Smart, Mr. John Montgomery",56,Text,0,26.55
+FALSE,"Scanlan, Mr. James",,Text,0,7.725
+TRUE,"Baclini, Miss. Helene Barbara",0.75,Text,1,19.2583
+FALSE,"Keefe, Mr. Arthur",,Text,0,7.25
+FALSE,"Cacic, Mr. Luka",38,Text,0,8.6625
+TRUE,"West, Mrs. Edwy Arthur (Ada Mary Worth)",33,Text,2,27.75
+TRUE,"Jerwan, Mrs. Amin S (Marie Marthe Thuillard)",23,Text,0,13.7917
+FALSE,"Strandberg, Miss. Ida Sofia",22,Text,0,9.8375
+FALSE,"Clifford, Mr. George Quincy",,Text,0,52
+FALSE,"Renouf, Mr. Peter Henry",34,Text,0,21
+FALSE,"Braund, Mr. Lewis Richard",29,Text,0,7.0458
+FALSE,"Karlsson, Mr. Nils August",22,Text,0,7.5208
+TRUE,"Hirvonen, Miss. Hildur E",2,Text,1,12.2875
+FALSE,"Goodwin, Master. Harold Victor",9,Text,2,46.9
+FALSE,"Frost, Mr. Anthony Wood ""Archie""",,Text,0,0
+FALSE,"Rouse, Mr. Richard Henry",50,Text,0,8.05
+TRUE,"Turkula, Mrs. (Hedwig)",63,Text,0,9.5875
+TRUE,"Bishop, Mr. Dickinson H",25,Text,0,91.0792
+FALSE,"Lefebre, Miss. Jeannie",,Text,1,25.4667
+TRUE,"Hoyt, Mrs. Frederick Maxfield (Jane Anne Forby)",35,Text,0,90
+FALSE,"Kent, Mr. Edward Austin",58,Text,0,29.7
+FALSE,"Somerton, Mr. Francis William",30,Text,0,8.05
+TRUE,"Coutts, Master. Eden Leslie ""Neville""",9,Text,1,15.9
+FALSE,"Hagland, Mr. Konrad Mathias Reiersen",,Text,0,19.9667
+FALSE,"Windelov, Mr. Einar",21,Text,0,7.25
+FALSE,"Molson, Mr. Harry Markland",55,Text,0,30.5
+FALSE,"Artagaveytia, Mr. Ramon",71,Text,0,49.5042
+FALSE,"Stanley, Mr. Edward Roland",21,Text,0,8.05
+FALSE,"Yousseff, Mr. Gerious",,Text,0,14.4583
+TRUE,"Eustis, Miss. Elizabeth Mussey",54,Text,0,78.2667
+FALSE,"Shellard, Mr. Frederick William",,Text,0,15.1
+FALSE,"Allison, Mrs. Hudson J C (Bessie Waldo Daniels)",25,Text,2,151.55
+FALSE,"Svensson, Mr. Olof",24,Text,0,7.7958
+FALSE,"Calic, Mr. Petar",17,Text,0,8.6625
+FALSE,"Canavan, Miss. Mary",21,Text,0,7.75
+FALSE,"O'Sullivan, Miss. Bridget Mary",,Text,0,7.6292
+FALSE,"Laitinen, Miss. Kristina Sofia",37,Text,0,9.5875
+TRUE,"Maioni, Miss. Roberta",16,Text,0,86.5
+FALSE,"Penasco y Castellana, Mr. Victor de Satode",18,Text,0,108.9
+TRUE,"Quick, Mrs. Frederick Charles (Jane Richards)",33,Text,2,26
+TRUE,"Bradley, Mr. George (""George Arthur Brayton"")",,Text,0,26.55
+FALSE,"Olsen, Mr. Henry Margido",28,Text,0,22.525
+TRUE,"Lang, Mr. Fang",26,Text,0,56.4958
+TRUE,"Daly, Mr. Eugene Patrick",29,Text,0,7.75
+FALSE,"Webber, Mr. James",,Text,0,8.05
+TRUE,"McGough, Mr. James Robert",36,Text,0,26.2875
+TRUE,"Rothschild, Mrs. Martin (Elizabeth L. Barrett)",54,Text,0,59.4
+FALSE,"Coleff, Mr. Satio",24,Text,0,7.4958
+FALSE,"Walker, Mr. William Anderson",47,Text,0,34.0208
+TRUE,"Lemore, Mrs. (Amelia Milley)",34,Text,0,10.5
+FALSE,"Ryan, Mr. Patrick",,Text,0,24.15
+TRUE,"Angle, Mrs. William A (Florence ""Mary"" Agnes Hughes)",36,Text,0,26
+FALSE,"Pavlovic, Mr. Stefo",32,Text,0,7.8958
+TRUE,"Perreault, Miss. Anne",30,Text,0,93.5
+FALSE,"Vovk, Mr. Janko",22,Text,0,7.8958
+FALSE,"Lahoud, Mr. Sarkis",,Text,0,7.225
+TRUE,"Hippach, Mrs. Louis Albert (Ida Sophia Fischer)",44,Text,1,57.9792
+FALSE,"Kassem, Mr. Fared",,Text,0,7.2292
+FALSE,"Farrell, Mr. James",40.5,Text,0,7.75
+TRUE,"Ridsdale, Miss. Lucy",50,Text,0,10.5
+FALSE,"Farthing, Mr. John",,Text,0,221.7792
+FALSE,"Salonen, Mr. Johan Werner",39,Text,0,7.925
+FALSE,"Hocking, Mr. Richard George",23,Text,1,11.5
+TRUE,"Quick, Miss. Phyllis May",2,Text,1,26
+FALSE,"Toufik, Mr. Nakli",,Text,0,7.2292
+FALSE,"Elias, Mr. Joseph Jr",17,Text,1,7.2292
+TRUE,"Peter, Mrs. Catherine (Catherine Rizk)",,Text,2,22.3583
+FALSE,"Cacic, Miss. Marija",30,Text,0,8.6625
+TRUE,"Hart, Miss. Eva Miriam",7,Text,2,26.25
+FALSE,"Butt, Major. Archibald Willingham",45,Text,0,26.55
+TRUE,"LeRoy, Miss. Bertha",30,Text,0,106.425
+FALSE,"Risien, Mr. Samuel Beard",,Text,0,14.5
+TRUE,"Frolicher, Miss. Hedwig Margaritha",22,Text,2,49.5
+TRUE,"Crosby, Miss. Harriet R",36,Text,2,71
+FALSE,"Andersson, Miss. Ingeborg Constanzia",9,Text,2,31.275
+FALSE,"Andersson, Miss. Sigrid Elisabeth",11,Text,2,31.275
+TRUE,"Beane, Mr. Edward",32,Text,0,26
+FALSE,"Douglas, Mr. Walter Donald",50,Text,0,106.425
+FALSE,"Nicholson, Mr. Arthur Ernest",64,Text,0,26
+TRUE,"Beane, Mrs. Edward (Ethel Clarke)",19,Text,0,26
+TRUE,"Padro y Manent, Mr. Julian",,Text,0,13.8625
+FALSE,"Goldsmith, Mr. Frank John",33,Text,1,20.525
+TRUE,"Davies, Master. John Morgan Jr",8,Text,1,36.75
+TRUE,"Thayer, Mr. John Borland Jr",17,Text,2,110.8833
+FALSE,"Sharp, Mr. Percival James R",27,Text,0,26
+FALSE,"O'Brien, Mr. Timothy",,Text,0,7.8292
+TRUE,"Leeni, Mr. Fahim (""Philip Zenni"")",22,Text,0,7.225
+TRUE,"Ohman, Miss. Velin",22,Text,0,7.775
+FALSE,"Wright, Mr. George",62,Text,0,26.55
+TRUE,"Duff Gordon, Lady. (Lucille Christiana Sutherland) (""Mrs Morgan"")",48,Text,0,39.6
+FALSE,"Robbins, Mr. Victor",,Text,0,227.525
+TRUE,"Taussig, Mrs. Emil (Tillie Mandelbaum)",39,Text,1,79.65
+TRUE,"de Messemaeker, Mrs. Guillaume Joseph (Emma)",36,Text,0,17.4
+FALSE,"Morrow, Mr. Thomas Rowan",,Text,0,7.75
+FALSE,"Sivic, Mr. Husein",40,Text,0,7.8958
+FALSE,"Norman, Mr. Robert Douglas",28,Text,0,13.5
+FALSE,"Simmons, Mr. John",,Text,0,8.05
+FALSE,"Meanwell, Miss. (Marion Ogden)",,Text,0,8.05
+FALSE,"Davies, Mr. Alfred J",24,Text,0,24.15
+FALSE,"Stoytcheff, Mr. Ilia",19,Text,0,7.8958
+FALSE,"Palsson, Mrs. Nils (Alma Cornelia Berglund)",29,Text,4,21.075
+FALSE,"Doharr, Mr. Tannous",,Text,0,7.2292
+TRUE,"Jonsson, Mr. Carl",32,Text,0,7.8542
+TRUE,"Harris, Mr. George",62,Text,0,10.5
+TRUE,"Appleton, Mrs. Edward Dale (Charlotte Lamson)",53,Text,0,51.4792
+TRUE,"Flynn, Mr. John Irwin (""Irving"")",36,Text,0,26.3875
+TRUE,"Kelly, Miss. Mary",,Text,0,7.75
+FALSE,"Rush, Mr. Alfred George John",16,Text,0,8.05
+FALSE,"Patchett, Mr. George",19,Text,0,14.5
+TRUE,"Garside, Miss. Ethel",34,Text,0,13
+TRUE,"Silvey, Mrs. William Baird (Alice Munger)",39,Text,0,55.9
+FALSE,"Caram, Mrs. Joseph (Maria Elias)",,Text,0,14.4583
+TRUE,"Jussila, Mr. Eiriik",32,Text,0,7.925
+TRUE,"Christy, Miss. Julie Rachel",25,Text,1,30
+TRUE,"Thayer, Mrs. John Borland (Marian Longstreth Morris)",39,Text,1,110.8833
+FALSE,"Downton, Mr. William James",54,Text,0,26
+FALSE,"Ross, Mr. John Hugo",36,Text,0,40.125
+FALSE,"Paulner, Mr. Uscher",,Text,0,8.7125
+TRUE,"Taussig, Miss. Ruth",18,Text,2,79.65
+FALSE,"Jarvis, Mr. John Denzil",47,Text,0,15
+TRUE,"Frolicher-Stehli, Mr. Maxmillian",60,Text,1,79.2
+FALSE,"Gilinski, Mr. Eliezer",22,Text,0,8.05
+FALSE,"Murdlin, Mr. Joseph",,Text,0,8.05
+FALSE,"Rintamaki, Mr. Matti",35,Text,0,7.125
+TRUE,"Stephenson, Mrs. Walter Bertram (Martha Eustis)",52,Text,0,78.2667
+FALSE,"Elsbury, Mr. William James",47,Text,0,7.25
+FALSE,"Bourke, Miss. Mary",,Text,2,7.75
+FALSE,"Chapman, Mr. John Henry",37,Text,0,26
+FALSE,"Van Impe, Mr. Jean Baptiste",36,Text,1,24.15
+TRUE,"Leitch, Miss. Jessie Wills",,Text,0,33
+FALSE,"Johnson, Mr. Alfred",49,Text,0,0
+FALSE,"Boulos, Mr. Hanna",,Text,0,7.225
+TRUE,"Duff Gordon, Sir. Cosmo Edmund (""Mr Morgan"")",49,Text,0,56.9292
+TRUE,"Jacobsohn, Mrs. Sidney Samuel (Amy Frances Christy)",24,Text,1,27
+FALSE,"Slabenoff, Mr. Petco",,Text,0,7.8958
+FALSE,"Harrington, Mr. Charles H",,Text,0,42.4
+FALSE,"Torber, Mr. Ernst William",44,Text,0,8.05
+TRUE,"Homer, Mr. Harry (""Mr E Haven"")",35,Text,0,26.55
+FALSE,"Lindell, Mr. Edvard Bengtsson",36,Text,0,15.55
+FALSE,"Karaic, Mr. Milan",30,Text,0,7.8958
+TRUE,"Daniel, Mr. Robert Williams",27,Text,0,30.5
+TRUE,"Laroche, Mrs. Joseph (Juliette Marie Louise Lafargue)",22,Text,2,41.5792
+TRUE,"Shutes, Miss. Elizabeth W",40,Text,0,153.4625
+FALSE,"Andersson, Mrs. Anders Johan (Alfrida Konstantia Brogren)",39,Text,5,31.275
+FALSE,"Jardin, Mr. Jose Neto",,Text,0,7.05
+TRUE,"Murphy, Miss. Margaret Jane",,Text,0,15.5
+FALSE,"Horgan, Mr. John",,Text,0,7.75
+FALSE,"Brocklebank, Mr. William Alfred",35,Text,0,8.05
+TRUE,"Herman, Miss. Alice",24,Text,2,65
+FALSE,"Danbom, Mr. Ernst Gilbert",34,Text,1,14.4
+FALSE,"Lobb, Mrs. William Arthur (Cordelia K Stanlick)",26,Text,0,16.1
+TRUE,"Becker, Miss. Marion Louise",4,Text,1,39
+FALSE,"Gavey, Mr. Lawrence",26,Text,0,10.5
+FALSE,"Yasbeck, Mr. Antoni",27,Text,0,14.4542
+TRUE,"Kimball, Mr. Edwin Nelson Jr",42,Text,0,52.5542
+TRUE,"Nakid, Mr. Sahid",20,Text,1,15.7417
+FALSE,"Hansen, Mr. Henry Damsgaard",21,Text,0,7.8542
+FALSE,"Bowen, Mr. David John ""Dai""",21,Text,0,16.1
+FALSE,"Sutton, Mr. Frederick",61,Text,0,32.3208
+FALSE,"Kirkland, Rev. Charles Leonard",57,Text,0,12.35
+TRUE,"Longley, Miss. Gretchen Fiske",21,Text,0,77.9583
+FALSE,"Bostandyeff, Mr. Guentcho",26,Text,0,7.8958
+FALSE,"O'Connell, Mr. Patrick D",,Text,0,7.7333
+TRUE,"Barkworth, Mr. Algernon Henry Wilson",80,Text,0,30
+FALSE,"Lundahl, Mr. Johan Svensson",51,Text,0,7.0542
+TRUE,"Stahelin-Maeglin, Dr. Max",32,Text,0,30.5
+FALSE,"Parr, Mr. William Henry Marsh",,Text,0,0
+FALSE,"Skoog, Miss. Mabel",9,Text,2,27.9
+TRUE,"Davis, Miss. Mary",28,Text,0,13
+FALSE,"Leinonen, Mr. Antti Gustaf",32,Text,0,7.925
+FALSE,"Collyer, Mr. Harvey",31,Text,1,26.25
+FALSE,"Panula, Mrs. Juha (Maria Emilia Ojala)",41,Text,5,39.6875
+FALSE,"Thorneycroft, Mr. Percival",,Text,0,16.1
+FALSE,"Jensen, Mr. Hans Peder",20,Text,0,7.8542
+TRUE,"Sagesser, Mlle. Emma",24,Text,0,69.3
+FALSE,"Skoog, Miss. Margit Elizabeth",2,Text,2,27.9
+TRUE,"Foo, Mr. Choong",,Text,0,56.4958
+TRUE,"Baclini, Miss. Eugenie",0.75,Text,1,19.2583
+TRUE,"Harper, Mr. Henry Sleeper",48,Text,0,76.7292
+FALSE,"Cor, Mr. Liudevit",19,Text,0,7.8958
+TRUE,"Simonius-Blumer, Col. Oberst Alfons",56,Text,0,35.5
+FALSE,"Willey, Mr. Edward",,Text,0,7.55
+TRUE,"Stanley, Miss. Amy Zillah Elsie",23,Text,0,7.55
+FALSE,"Mitkoff, Mr. Mito",,Text,0,7.8958
+TRUE,"Doling, Miss. Elsie",18,Text,1,23
+FALSE,"Kalvik, Mr. Johannes Halvorsen",21,Text,0,8.4333
+TRUE,"O'Leary, Miss. Hanora ""Norah""",,Text,0,7.8292
+FALSE,"Hegarty, Miss. Hanora ""Nora""",18,Text,0,6.75
+FALSE,"Hickman, Mr. Leonard Mark",24,Text,0,73.5
+FALSE,"Radeff, Mr. Alexander",,Text,0,7.8958
+FALSE,"Bourke, Mrs. John (Catherine)",32,Text,1,15.5
+FALSE,"Eitemiller, Mr. George Floyd",23,Text,0,13
+FALSE,"Newell, Mr. Arthur Webster",58,Text,2,113.275
+TRUE,"Frauenthal, Dr. Henry William",50,Text,0,133.65
+FALSE,"Badt, Mr. Mohamed",40,Text,0,7.225
+FALSE,"Colley, Mr. Edward Pomeroy",47,Text,0,25.5875
+FALSE,"Coleff, Mr. Peju",36,Text,0,7.4958
+TRUE,"Lindqvist, Mr. Eino William",20,Text,0,7.925
+FALSE,"Hickman, Mr. Lewis",32,Text,0,73.5
+FALSE,"Butler, Mr. Reginald Fenton",25,Text,0,13
+FALSE,"Rommetvedt, Mr. Knud Paust",,Text,0,7.775
+FALSE,"Cook, Mr. Jacob",43,Text,0,8.05
+TRUE,"Taylor, Mrs. Elmer Zebley (Juliet Cummins Wright)",,Text,0,52
+TRUE,"Brown, Mrs. Thomas William Solomon (Elizabeth Catherine Ford)",40,Text,1,39
+FALSE,"Davidson, Mr. Thornton",31,Text,0,52
+FALSE,"Mitchell, Mr. Henry Michael",70,Text,0,10.5
+TRUE,"Wilhelms, Mr. Charles",31,Text,0,13
+FALSE,"Watson, Mr. Ennis Hastings",,Text,0,0
+FALSE,"Edvardsson, Mr. Gustaf Hjalmar",18,Text,0,7.775
+FALSE,"Sawyer, Mr. Frederick Charles",24.5,Text,0,8.05
+TRUE,"Turja, Miss. Anna Sofia",18,Text,0,9.8417
+FALSE,"Goodwin, Mrs. Frederick (Augusta Tyler)",43,Text,6,46.9
+TRUE,"Cardeza, Mr. Thomas Drake Martinez",36,Text,1,512.3292
+FALSE,"Peters, Miss. Katie",,Text,0,8.1375
+TRUE,"Hassab, Mr. Hammad",27,Text,0,76.7292
+FALSE,"Olsvigen, Mr. Thor Anderson",20,Text,0,9.225
+FALSE,"Goodwin, Mr. Charles Edward",14,Text,2,46.9
+FALSE,"Brown, Mr. Thomas William Solomon",60,Text,1,39
+FALSE,"Laroche, Mr. Joseph Philippe Lemercier",25,Text,2,41.5792
+FALSE,"Panula, Mr. Jaako Arnold",14,Text,1,39.6875
+FALSE,"Dakic, Mr. Branko",19,Text,0,10.1708
+FALSE,"Fischer, Mr. Eberhard Thelander",18,Text,0,7.7958
+TRUE,"Madill, Miss. Georgette Alexandra",15,Text,1,211.3375
+TRUE,"Dick, Mr. Albert Adrian",31,Text,0,57
+TRUE,"Karun, Miss. Manca",4,Text,1,13.4167
+TRUE,"Lam, Mr. Ali",,Text,0,56.4958
+FALSE,"Saad, Mr. Khalil",25,Text,0,7.225
+FALSE,"Weir, Col. John",60,Text,0,26.55
+FALSE,"Chapman, Mr. Charles Henry",52,Text,0,13.5
+FALSE,"Kelly, Mr. James",44,Text,0,8.05
+TRUE,"Mullens, Miss. Katherine ""Katie""",,Text,0,7.7333
+FALSE,"Thayer, Mr. John Borland",49,Text,1,110.8833
+FALSE,"Humblen, Mr. Adolf Mathias Nicolai Olsen",42,Text,0,7.65
+TRUE,"Astor, Mrs. John Jacob (Madeleine Talmadge Force)",18,Text,0,227.525
+TRUE,"Silverthorne, Mr. Spencer Victor",35,Text,0,26.2875
+FALSE,"Barbara, Miss. Saiide",18,Text,1,14.4542
+FALSE,"Gallagher, Mr. Martin",25,Text,0,7.7417
+FALSE,"Hansen, Mr. Henrik Juul",26,Text,0,7.8542
+FALSE,"Morley, Mr. Henry Samuel (""Mr Henry Marshall"")",39,Text,0,26
+TRUE,"Kelly, Mrs. Florence ""Fannie""",45,Text,0,13.5
+TRUE,"Calderhead, Mr. Edward Pennington",42,Text,0,26.2875
+TRUE,"Cleaver, Miss. Alice",22,Text,0,151.55
+TRUE,"Moubarek, Master. Halim Gonios (""William George"")",,Text,1,15.2458
+TRUE,"Mayne, Mlle. Berthe Antonine (""Mrs de Villiers"")",24,Text,0,49.5042
+FALSE,"Klaber, Mr. Herman",,Text,0,26.55
+TRUE,"Taylor, Mr. Elmer Zebley",48,Text,0,52
+FALSE,"Larsson, Mr. August Viktor",29,Text,0,9.4833
+FALSE,"Greenberg, Mr. Samuel",52,Text,0,13
+FALSE,"Soholt, Mr. Peter Andreas Lauritz Andersen",19,Text,0,7.65
+TRUE,"Endres, Miss. Caroline Louise",38,Text,0,227.525
+TRUE,"Troutt, Miss. Edwina Celia ""Winnie""",27,Text,0,10.5
+FALSE,"McEvoy, Mr. Michael",,Text,0,15.5
+FALSE,"Johnson, Mr. Malkolm Joackim",33,Text,0,7.775
+TRUE,"Harper, Miss. Annie Jessie ""Nina""",6,Text,1,33
+FALSE,"Jensen, Mr. Svend Lauritz",17,Text,0,7.0542
+FALSE,"Gillespie, Mr. William Henry",34,Text,0,13
+FALSE,"Hodges, Mr. Henry Price",50,Text,0,13
+TRUE,"Chambers, Mr. Norman Campbell",27,Text,0,53.1
+FALSE,"Oreskovic, Mr. Luka",20,Text,0,8.6625
+TRUE,"Renouf, Mrs. Peter Henry (Lillian Jefferys)",30,Text,0,21
+TRUE,"Mannion, Miss. Margareth",,Text,0,7.7375
+FALSE,"Bryhl, Mr. Kurt Arnold Gottfrid",25,Text,0,26
+FALSE,"Ilmakangas, Miss. Pieta Sofia",25,Text,0,7.925
+TRUE,"Allen, Miss. Elisabeth Walton",29,Text,0,211.3375
+FALSE,"Hassan, Mr. Houssein G N",11,Text,0,18.7875
+FALSE,"Knight, Mr. Robert J",,Text,0,0
+FALSE,"Berriman, Mr. William John",23,Text,0,13
+FALSE,"Troupiansky, Mr. Moses Aaron",23,Text,0,13
+FALSE,"Williams, Mr. Leslie",28.5,Text,0,16.1
+FALSE,"Ford, Mrs. Edward (Margaret Ann Watson)",48,Text,3,34.375
+TRUE,"Lesurer, Mr. Gustave J",35,Text,0,512.3292
+FALSE,"Ivanoff, Mr. Kanio",,Text,0,7.8958
+FALSE,"Nankoff, Mr. Minko",,Text,0,7.8958
+TRUE,"Hawksford, Mr. Walter James",,Text,0,30
+FALSE,"Cavendish, Mr. Tyrell William",36,Text,0,78.85
+TRUE,"Ryerson, Miss. Susan Parker ""Suzette""",21,Text,2,262.375
+FALSE,"McNamee, Mr. Neal",24,Text,0,16.1
+TRUE,"Stranden, Mr. Juho",31,Text,0,7.925
+FALSE,"Crosby, Capt. Edward Gifford",70,Text,1,71
+FALSE,"Abbott, Mr. Rossmore Edward",16,Text,1,20.25
+TRUE,"Sinkkonen, Miss. Anna",30,Text,0,13
+FALSE,"Marvin, Mr. Daniel Warner",19,Text,0,53.1
+FALSE,"Connaghton, Mr. Michael",31,Text,0,7.75
+TRUE,"Wells, Miss. Joan",4,Text,1,23
+TRUE,"Moor, Master. Meier",6,Text,1,12.475
+FALSE,"Vande Velde, Mr. Johannes Joseph",33,Text,0,9.5
+FALSE,"Jonkoff, Mr. Lalio",23,Text,0,7.8958
+TRUE,"Herman, Mrs. Samuel (Jane Laver)",48,Text,2,65
+TRUE,"Hamalainen, Master. Viljo",0.67,Text,1,14.5
+FALSE,"Carlsson, Mr. August Sigfrid",28,Text,0,7.7958
+FALSE,"Bailey, Mr. Percy Andrew",18,Text,0,11.5
+FALSE,"Theobald, Mr. Thomas Leonard",34,Text,0,8.05
+TRUE,"Rothes, the Countess. of (Lucy Noel Martha Dyer-Edwards)",33,Text,0,86.5
+FALSE,"Garfirth, Mr. John",,Text,0,14.5
+FALSE,"Nirva, Mr. Iisakki Antino Aijo",41,Text,0,7.125
+TRUE,"Barah, Mr. Hanna Assi",20,Text,0,7.2292
+TRUE,"Carter, Mrs. William Ernest (Lucile Polk)",36,Text,2,120
+FALSE,"Eklund, Mr. Hans Linus",16,Text,0,7.775
+TRUE,"Hogeboom, Mrs. John C (Anna Andrews)",51,Text,0,77.9583
+FALSE,"Brewe, Dr. Arthur Jackson",,Text,0,39.6
+FALSE,"Mangan, Miss. Mary",30.5,Text,0,7.75
+FALSE,"Moran, Mr. Daniel J",,Text,0,24.15
+FALSE,"Gronnestad, Mr. Daniel Danielsen",32,Text,0,8.3625
+FALSE,"Lievens, Mr. Rene Aime",24,Text,0,9.5
+FALSE,"Jensen, Mr. Niels Peder",48,Text,0,7.8542
+FALSE,"Mack, Mrs. (Mary)",57,Text,0,10.5
+FALSE,"Elias, Mr. Dibo",,Text,0,7.225
+TRUE,"Hocking, Mrs. Elizabeth (Eliza Needs)",54,Text,3,23
+FALSE,"Myhrman, Mr. Pehr Fabian Oliver Malkolm",18,Text,0,7.75
+FALSE,"Tobin, Mr. Roger",,Text,0,7.75
+TRUE,"Emanuel, Miss. Virginia Ethel",5,Text,0,12.475
+FALSE,"Kilgannon, Mr. Thomas J",,Text,0,7.7375
+TRUE,"Robert, Mrs. Edward Scott (Elisabeth Walton McMillan)",43,Text,1,211.3375
+TRUE,"Ayoub, Miss. Banoura",13,Text,0,7.2292
+TRUE,"Dick, Mrs. Albert Adrian (Vera Gillespie)",17,Text,0,57
+FALSE,"Long, Mr. Milton Clyde",29,Text,0,30
+FALSE,"Johnston, Mr. Andrew G",,Text,2,23.45
+FALSE,"Ali, Mr. William",25,Text,0,7.05
+FALSE,"Harmer, Mr. Abraham (David Lishin)",25,Text,0,7.25
+TRUE,"Sjoblom, Miss. Anna Sofia",18,Text,0,7.4958
+FALSE,"Rice, Master. George Hugh",8,Text,1,29.125
+TRUE,"Dean, Master. Bertram Vere",1,Text,2,20.575
+FALSE,"Guggenheim, Mr. Benjamin",46,Text,0,79.2
+FALSE,"Keane, Mr. Andrew ""Andy""",,Text,0,7.75
+FALSE,"Gaskell, Mr. Alfred",16,Text,0,26
+FALSE,"Sage, Miss. Stella Anna",,Text,2,69.55
+FALSE,"Hoyt, Mr. William Fisher",,Text,0,30.6958
+FALSE,"Dantcheff, Mr. Ristiu",25,Text,0,7.8958
+FALSE,"Otter, Mr. Richard",39,Text,0,13
+TRUE,"Leader, Dr. Alice (Farnham)",49,Text,0,25.9292
+TRUE,"Osman, Mrs. Mara",31,Text,0,8.6833
+FALSE,"Ibrahim Shawah, Mr. Yousseff",30,Text,0,7.2292
+FALSE,"Van Impe, Mrs. Jean Baptiste (Rosalie Paula Govaert)",30,Text,1,24.15
+FALSE,"Ponesell, Mr. Martin",34,Text,0,13
+TRUE,"Collyer, Mrs. Harvey (Charlotte Annie Tate)",31,Text,1,26.25
+TRUE,"Carter, Master. William Thornton II",11,Text,2,120
+TRUE,"Thomas, Master. Assad Alexander",0.42,Text,1,8.5167
+TRUE,"Hedman, Mr. Oskar Arvid",27,Text,0,6.975
+FALSE,"Johansson, Mr. Karl Johan",31,Text,0,7.775
+FALSE,"Andrews, Mr. Thomas Jr",39,Text,0,0
+FALSE,"Pettersson, Miss. Ellen Natalia",18,Text,0,7.775
+FALSE,"Meyer, Mr. August",39,Text,0,13
+TRUE,"Chambers, Mrs. Norman Campbell (Bertha Griggs)",33,Text,0,53.1
+FALSE,"Alexander, Mr. William",26,Text,0,7.8875
+FALSE,"Lester, Mr. James",39,Text,0,24.15
+FALSE,"Slemen, Mr. Richard James",35,Text,0,10.5
+FALSE,"Andersson, Miss. Ebba Iris Alfrida",6,Text,2,31.275
+FALSE,"Tomlin, Mr. Ernest Portage",30.5,Text,0,8.05
+FALSE,"Fry, Mr. Richard",,Text,0,0
+FALSE,"Heininen, Miss. Wendla Maria",23,Text,0,7.925
+FALSE,"Mallet, Mr. Albert",31,Text,1,37.0042
+FALSE,"Holm, Mr. John Fredrik Alexander",43,Text,0,6.45
+FALSE,"Skoog, Master. Karl Thorsten",10,Text,2,27.9
+TRUE,"Hays, Mrs. Charles Melville (Clara Jennings Gregg)",52,Text,1,93.5
+TRUE,"Lulic, Mr. Nikola",27,Text,0,8.6625
+FALSE,"Reuchlin, Jonkheer. John George",38,Text,0,0
+TRUE,"Moor, Mrs. (Beila)",27,Text,1,12.475
+FALSE,"Panula, Master. Urho Abraham",2,Text,1,39.6875
+FALSE,"Flynn, Mr. John",,Text,0,6.95
+FALSE,"Lam, Mr. Len",,Text,0,56.4958
+TRUE,"Mallet, Master. Andre",1,Text,2,37.0042
+TRUE,"McCormack, Mr. Thomas Joseph",,Text,0,7.75
+TRUE,"Stone, Mrs. George Nelson (Martha Evelyn)",62,Text,0,80
+TRUE,"Yasbeck, Mrs. Antoni (Selini Alexander)",15,Text,0,14.4542
+TRUE,"Richards, Master. George Sibley",0.83,Text,1,18.75
+FALSE,"Saad, Mr. Amin",,Text,0,7.2292
+FALSE,"Augustsson, Mr. Albert",23,Text,0,7.8542
+FALSE,"Allum, Mr. Owen George",18,Text,0,8.3
+TRUE,"Compton, Miss. Sara Rebecca",39,Text,1,83.1583
+FALSE,"Pasic, Mr. Jakob",21,Text,0,8.6625
+FALSE,"Sirota, Mr. Maurice",,Text,0,8.05
+TRUE,"Chip, Mr. Chang",32,Text,0,56.4958
+TRUE,"Marechal, Mr. Pierre",,Text,0,29.7
+FALSE,"Alhomaki, Mr. Ilmari Rudolf",20,Text,0,7.925
+FALSE,"Mudd, Mr. Thomas Charles",16,Text,0,10.5
+TRUE,"Serepeca, Miss. Augusta",30,Text,0,31
+FALSE,"Lemberopolous, Mr. Peter L",34.5,Text,0,6.4375
+FALSE,"Culumovic, Mr. Jeso",17,Text,0,8.6625
+FALSE,"Abbing, Mr. Anthony",42,Text,0,7.55
+FALSE,"Sage, Mr. Douglas Bullen",,Text,2,69.55
+FALSE,"Markoff, Mr. Marin",35,Text,0,7.8958
+FALSE,"Harper, Rev. John",28,Text,1,33
+TRUE,"Goldenberg, Mrs. Samuel L (Edwiga Grabowska)",,Text,0,89.1042
+FALSE,"Andersson, Master. Sigvard Harald Elias",4,Text,2,31.275
+FALSE,"Svensson, Mr. Johan",74,Text,0,7.775
+FALSE,"Boulos, Miss. Nourelain",9,Text,1,15.2458
+TRUE,"Lines, Miss. Mary Conover",16,Text,1,39.4
+FALSE,"Carter, Mrs. Ernest Courtenay (Lilian Hughes)",44,Text,0,26
+TRUE,"Aks, Mrs. Sam (Leah Rosen)",18,Text,1,9.35
+TRUE,"Wick, Mrs. George Dennick (Mary Hitchcock)",45,Text,1,164.8667
+TRUE,"Daly, Mr. Peter Denis ",51,Text,0,26.55
+TRUE,"Baclini, Mrs. Solomon (Latifa Qurban)",24,Text,3,19.2583
+FALSE,"Razi, Mr. Raihed",,Text,0,7.2292
+FALSE,"Hansen, Mr. Claus Peter",41,Text,0,14.1083
+FALSE,"Giles, Mr. Frederick Edward",21,Text,0,11.5
+TRUE,"Swift, Mrs. Frederick Joel (Margaret Welles Barron)",48,Text,0,25.9292
+FALSE,"Sage, Miss. Dorothy Edith ""Dolly""",,Text,2,69.55
+FALSE,"Gill, Mr. John William",24,Text,0,13
+TRUE,"Bystrom, Mrs. (Karolina)",42,Text,0,13
+TRUE,"Duran y More, Miss. Asuncion",27,Text,0,13.8583
+FALSE,"Roebling, Mr. Washington Augustus II",31,Text,0,50.4958
+FALSE,"van Melkebeke, Mr. Philemon",,Text,0,9.5
+TRUE,"Johnson, Master. Harold Theodor",4,Text,1,11.1333
+FALSE,"Balkic, Mr. Cerin",26,Text,0,7.8958
+TRUE,"Beckwith, Mrs. Richard Leonard (Sallie Monypeny)",47,Text,1,52.5542
+FALSE,"Carlsson, Mr. Frans Olof",33,Text,0,5
+FALSE,"Vander Cruyssen, Mr. Victor",47,Text,0,9
+TRUE,"Abelson, Mrs. Samuel (Hannah Wizosky)",28,Text,0,24
+TRUE,"Najib, Miss. Adele Kiamie ""Jane""",15,Text,0,7.225
+FALSE,"Gustafsson, Mr. Alfred Ossian",20,Text,0,9.8458
+FALSE,"Petroff, Mr. Nedelio",19,Text,0,7.8958
+FALSE,"Laleff, Mr. Kristo",,Text,0,7.8958
+TRUE,"Potter, Mrs. Thomas Jr (Lily Alexenia Wilson)",56,Text,1,83.1583
+TRUE,"Shelley, Mrs. William (Imanita Parrish Hall)",25,Text,1,26
+FALSE,"Markun, Mr. Johann",33,Text,0,7.8958
+FALSE,"Dahlberg, Miss. Gerda Ulrika",22,Text,0,10.5167
+FALSE,"Banfield, Mr. Frederick James",28,Text,0,10.5
+FALSE,"Sutehall, Mr. Henry Jr",25,Text,0,7.05
+FALSE,"Rice, Mrs. William (Margaret Norton)",39,Text,5,29.125
+FALSE,"Montvila, Rev. Juozas",27,Text,0,13
+TRUE,"Graham, Miss. Margaret Edith",19,Text,0,30
+FALSE,"Johnston, Miss. Catherine Helen ""Carrie""",,Text,2,23.45
+TRUE,"Behr, Mr. Karl Howell",26,Text,0,30
+FALSE,"Dooley, Mr. Patrick",32,Text,0,7.75
