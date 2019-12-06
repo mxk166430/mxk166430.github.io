@@ -1,0 +1,39 @@
+﻿name,year,attacker_king,defender_king,attacker_outcome,battle_type,major_death,major_capture,attacker_size,defender_size,summer,region
+Battle of the Golden Tooth,298,Joffrey/Tommen Baratheon,Robb Stark,TRUE,pitched battle,1,0,15000,4000,TRUE,The Westerlands
+Battle at the Mummer's Ford,298,Joffrey/Tommen Baratheon,Robb Stark,TRUE,ambush,1,0,,120,TRUE,The Riverlands
+Battle of Riverrun,298,Joffrey/Tommen Baratheon,Robb Stark,TRUE,pitched battle,0,1,15000,10000,TRUE,The Riverlands
+Battle of the Green Fork,298,Robb Stark,Joffrey/Tommen Baratheon,FALSE,pitched battle,1,1,18000,20000,TRUE,The Riverlands
+Battle of the Whispering Wood,298,Robb Stark,Joffrey/Tommen Baratheon,TRUE,ambush,1,1,1875,6000,TRUE,The Riverlands
+Battle of the Camps,298,Robb Stark,Joffrey/Tommen Baratheon,TRUE,ambush,0,0,6000,12625,TRUE,The Riverlands
+Sack of Darry,298,Joffrey/Tommen Baratheon,Robb Stark,TRUE,pitched battle,0,0,,,TRUE,The Riverlands
+Battle of Moat Cailin,299,Balon/Euron Greyjoy,Robb Stark,TRUE,pitched battle,0,0,,,TRUE,The North
+Battle of Deepwood Motte,299,Balon/Euron Greyjoy,Robb Stark,TRUE,siege,0,0,1000,,TRUE,The North
+Battle of the Stony Shore,299,Balon/Euron Greyjoy,Robb Stark,TRUE,ambush,0,0,264,,TRUE,The North
+Battle of Torrhen's Square,299,Robb Stark,Balon/Euron Greyjoy,TRUE,pitched battle,0,0,244,900,TRUE,The North
+Battle of Winterfell,299,Balon/Euron Greyjoy,Robb Stark,TRUE,ambush,0,1,20,,TRUE,The North
+Sack of Torrhen's Square,299,Balon/Euron Greyjoy,Balon/Euron Greyjoy,TRUE,siege,0,1,,,TRUE,The North
+Sack of Winterfell,299,Joffrey/Tommen Baratheon,Robb Stark,TRUE,ambush,1,0,618,2000,TRUE,The North
+Battle of Oxcross,299,Robb Stark,Joffrey/Tommen Baratheon,TRUE,ambush,1,1,6000,10000,TRUE,The Westerlands
+Siege of Storm's End,299,Stannis Baratheon,Renly Baratheon,TRUE,siege,1,0,5000,20000,TRUE,The Stormlands
+Battle of the Fords,299,Joffrey/Tommen Baratheon,Robb Stark,FALSE,pitched battle,0,0,20000,10000,TRUE,The Riverlands
+Sack of Harrenhal,299,Robb Stark,Joffrey/Tommen Baratheon,TRUE,ambush,1,0,100,100,TRUE,The Riverlands
+Battle of the Crag,299,Robb Stark,Joffrey/Tommen Baratheon,TRUE,ambush,0,0,6000,,TRUE,The Westerlands
+Battle of the Blackwater,299,Stannis Baratheon,Joffrey/Tommen Baratheon,FALSE,pitched battle,1,1,21000,7250,TRUE,The Crownlands
+Siege of Darry,299,Robb Stark,Joffrey/Tommen Baratheon,TRUE,siege,0,0,,,TRUE,The Riverlands
+Battle of Duskendale,299,Robb Stark,Joffrey/Tommen Baratheon,FALSE,pitched battle,1,0,3000,,TRUE,The Crownlands
+Battle of the Burning Septry,299,,,TRUE,pitched battle,0,0,,,TRUE,The Riverlands
+Battle of the Ruby Ford,299,Joffrey/Tommen Baratheon,Robb Stark,TRUE,pitched battle,0,0,,6000,TRUE,The Riverlands
+Retaking of Harrenhal,299,Joffrey/Tommen Baratheon,,TRUE,pitched battle,1,0,,,TRUE,The Riverlands
+The Red Wedding,299,Joffrey/Tommen Baratheon,Robb Stark,TRUE,ambush,1,1,3500,3500,TRUE,The Riverlands
+Siege of Seagard,299,Robb Stark,Joffrey/Tommen Baratheon,TRUE,siege,0,1,,,TRUE,The Riverlands
+Battle of Castle Black,300,Stannis Baratheon,Mance Rayder,FALSE,siege,1,1,100000,1240,FALSE,Beyond the Wall
+Fall of Moat Cailin,300,Joffrey/Tommen Baratheon,Balon/Euron Greyjoy,TRUE,siege,0,0,,,FALSE,The North
+Sack of Saltpans,300,,,TRUE,razing,0,0,,,FALSE,The Riverlands
+Retaking of Deepwood Motte,300,Stannis Baratheon,Balon/Euron Greyjoy,TRUE,pitched battle,0,0,4500,200,FALSE,The North
+Battle of the Shield Islands,300,Balon/Euron Greyjoy,Joffrey/Tommen Baratheon,TRUE,pitched battle,0,0,,,FALSE,The Reach
+"Invasion of Ryamsport, Vinetown, and Starfish Harbor",300,Balon/Euron Greyjoy,Joffrey/Tommen Baratheon,TRUE,razing,0,0,,,FALSE,The Reach
+Second Seige of Storm's End,300,Joffrey/Tommen Baratheon,Stannis Baratheon,TRUE,siege,0,0,,200,FALSE,The Stormlands
+Siege of Dragonstone,300,Joffrey/Tommen Baratheon,Stannis Baratheon,TRUE,siege,0,0,2000,,FALSE,The Stormlands
+Siege of Riverrun,300,Joffrey/Tommen Baratheon,Robb Stark,TRUE,siege,0,0,3000,,FALSE,The Riverlands
+Siege of Raventree,300,Joffrey/Tommen Baratheon,Robb Stark,TRUE,siege,0,1,1500,,FALSE,The Riverlands
+Siege of Winterfell,300,Stannis Baratheon,Joffrey/Tommen Baratheon,,,,,5000,8000,FALSE,The North
